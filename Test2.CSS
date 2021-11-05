@@ -1,0 +1,26 @@
+@import url ('https://fonts.googleapis.com/css2? family = Roboto: wght @ 500 & display = swap');
+	
+	body {
+		 background: #A695D6;
+		 color: #F2DCB2;
+		 
+		 fond-size: 16px;]
+		 font-weight: normal
+		 ;
+		 font-family: 'Roboto', sans-serif;
+		 } 
+		 
+		 .bt{
+			background: #856FD6;
+			padding: 15 px 20px;
+			font-family: inherit;
+			cursor:pointer
+		 }
+		 
+		 .bt:hover {
+			 opacity: 0.50;
+		 }
+		 
+		 .windo{
+			 background: #D696D2;cursor:pointer
+		 }

@@ -1,0 +1,43 @@
+	@import url ('https://fonts.googleapis.com/css2? family = Roboto: wght @ 500 & display = swap');
+	
+	body {
+		 background: #A695D6;
+		 color: #F2DCB2;
+		 
+		 fond-size: 16px;]
+		 font-weight: normal;
+		 font-family: 'Roboto', sans-serif;
+		 } 
+		 
+		 .link a {
+			 color: #F2DCB2; 
+			 text-decoration: none;
+		 }
+		 
+		 .photo{
+			 width: 200px;
+			 border-radius: 28px;
+		 }
+		 
+		 .text{
+			 padding: 0px  110px;
+		 }
+		 a:hover{
+			 text-decoration: underline;
+		 }
+		 
+		 a{
+			  padding: 0px  25px;
+		 }
+		 
+		 a:active {
+			color: red;
+		 }
+		 
+		h2{
+			padding: 0px  25px;
+		}
+		
+		.fobbi{
+			padding: 0px  25px;
+		}
